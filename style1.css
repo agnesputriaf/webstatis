@@ -1,0 +1,82 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+h1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+background-color: #00AA13;
+border-radius: 20px;
+text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #00AA13;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: center;
+    border: 2px solid #00AA13;
+        }
+
+/*paragraf*/
+p {
+color: black;
+text-align: justify;
+margin-left: 1%;
+margin-right: 1%;
+margin-top: 1%;
+margin-bottom: 1%;
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    color: black;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding {
+width: 300px;
+padding: 25px;
+background-color: #00AA13;
+display: block;
+margin: auto;
+border-radius: 10px;
+color: white;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.back {
+background-image: url(gambar6/back2.jpg);
+background-size: cover;
+padding-top: 2%;
+padding-bottom: 40%;
+background-attachment: fixed;
+}
+
+table {
+padding-left: 10px;
+width: 20%;
+border-left: 2px solid #00AA13;
+margin-left: 12px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
