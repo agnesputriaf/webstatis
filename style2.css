@@ -85,3 +85,49 @@ text-decoration: overline underline;
         font-family: Arial, Helvetica, sans-serif;
         margin-left: 2%;
     }
+
+table {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid white;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;}
+        th, td {
+            padding: 10px;
+            border:1px solid white;
+          } 
+        
+          .padding {
+            width: 300px;
+            padding: 25px;
+            background-color: #884118;
+            display: block;
+            margin: auto;
+            border: 3px solid black ;
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+       }
+
+       a {
+        color: #884118;
+       }
+
+       .footer {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #884118;
+        color: white;
+        text-align: center;
+       }
+    
+    .fa-instagram {
+        color: white;
+        font-size: 25px;
+    }
