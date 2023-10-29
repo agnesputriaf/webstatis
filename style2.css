@@ -1,0 +1,87 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    background-color: rgba(255, 241, 164, 0.986);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding: 10px;
+    font-size: 18px;
+    border: 10px solid white;
+    }
+
+ h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #884118;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-align: center;
+    text-shadow: 3px 3px black;
+    }
+
+    h2 {
+    width: 800px;
+    padding: 10px;
+    background-color: #884118;
+    display: block;
+    margin: auto;
+    border: 5px solid black ;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+h4 {
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-size: 22px;
+text-decoration: overline underline;
+}
+
+.back {
+    background-image: url(gambar7/bgtamanliterasi.jpg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+    }
+
+    p {
+        color: black;
+        text-align: justify;
+        margin-left: 1%;
+        margin-right: 1%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+    
+    .bg2 {
+        background-color: #884118;
+        width: auto;
+        height: auto;
+        border: 5px solid black;
+        color: white;
+        padding: 10px;
+        margin-left: 5%;
+        margin-right: 5%;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    ul.a {
+        list-style-type: circle;
+        color: white;
+        text-align: left;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 2%;
+    }
